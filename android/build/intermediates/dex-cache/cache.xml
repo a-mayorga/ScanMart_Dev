@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_3af961e92e6c0c550523c91e27fa2a9cf4014e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_9656d1360ce9b1c101a0aceac90d90bd13bebe4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_2490a406f07a48d519f62ffc036e23d626a738e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\xmpcore-5.1.2_d13a4247dad33829d9b6b030aaade4517b4ee38a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_fcf6ac923beaacb8a266e2aab47ab43fda69932c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.1_489465e434d4ac26bed2d7a6a0ddebb34fcdafc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_6ac8059b09f157251516c9a3980757d56ea7e3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_db10d8398a3761f1102a59d02777e81dbcd7d7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.1_5d959dd979d80ea448687c6396e28510abc30b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_f21dd8efb848c29d363441be593f83cc44af233c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_8b47d9bc729330b101848539ff4ac09b9075870d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.0\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.0_6c15f99d9e01c57eb228a03d3ea737c811e368e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_ef656f5b293dc7a353e9a37e1f9aea954397b3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\core-3.2.1_5a346b9644542c4aa9654b82b3d0d0a181467aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.1_ed245cb1ca72d0b43839af1eb5f155dc58360563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.2.0_7ca38050e2df56d0aeb89437e63128f0788c7b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_152eaa8310e8ec1258df6b1d820d5dc6ea01fdc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_ad9630355bf1419c90a467c6992fb79d07eee6ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_557bc44090511f6d8abc87d57363f656f25cde2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_e9cc8840f30f05549da7dab728f25891b2ba2c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.github.react-native-community\cameraview\d529251d24c0a367a28eea28f0eac2269d12f772\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e64d3bd4020c2600a42923c3b493bbb2e81f1211">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.github.react-native-community-cameraview-d529251d24c0a367a28eea28f0eac2269d12f772_c5ab6dc7270dbbb66e2c4d8c05a115442133ce5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.1_17d4b4567eb6adc42fb2491fa154ba452861145e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_824936059c5680f29b92bb0de94b20d0a7dd2580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.android.support\exifinterface\27.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d6df4057d1620a785f5bd2e69dd0d7866f3613c">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.android.support-exifinterface-27.1.0_7c09b9c4cebc51864c2915d9c5f179db5611308f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\metadata-extractor-2.9.1_9646b834bd61b250aa21e017468e266ebb7c57fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_cc501d4675523eee4b9c62b29cfb8ff5a433f8e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.1_ed6b50a4a106583de1424cbb85df37a21ddf200e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_e2a5f596c634255e0642f294c710d38f78695b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.1_7e6547046ab91d3f2204bcb0b61e5a8297c13e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_6520f0dffbe1af1af480334237742d1e36f6d544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_e837199b01da2fe432b0d532d45e80b3c8e9a2a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\ScanMart_Dev\react-native-camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="353d296abf178e5d958148bba328c3fc401d7859">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\ScanMart_Dev-react-native-camera-unspecified_fedf7039e355823bf5021f6d9602917bb9fc90e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_2af1e444576d80ecf671dcf9a71690f74442a539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9bc5c658348a96fc5110ac2a8785920bb9417c07">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.0_a926e71411a3b9ba073ea0c2fc33edcd97d6fe3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alberto Mayorga\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Desktop\ReactNativeProjects\ScanMart_Dev\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_4f23c9e80fc08b91020ab1e6a241781a832db83d.jar" />
+    </item>
+
+</items>
